@@ -1,1 +1,6 @@
 streamlit
+bleach
+phidata
+phi
+groq
+duckduckgo-search
